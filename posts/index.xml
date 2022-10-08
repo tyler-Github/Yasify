@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Yasifys Blog</title>
+        <link>http://blog.yasifys.tk/posts/</link>
+        <description>Recent content in Posts on Yasifys Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 08 Oct 2022 16:16:27 +0100</lastBuildDate><atom:link href="http://blog.yasifys.tk/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Testing</title>
+        <link>http://blog.yasifys.tk/posts/mypost/</link>
+        <pubDate>Sat, 08 Oct 2022 16:16:27 +0100</pubDate>
+        
+        <guid>http://blog.yasifys.tk/posts/mypost/</guid>
+        <description>&lt;p&gt;This is a test post!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

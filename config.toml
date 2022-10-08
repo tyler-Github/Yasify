@@ -1,5 +1,0 @@
-baseURL = 'http://blog.yasifys.tk/'
-languageCode = 'en-us'
-title = 'Yasifys Blog'
-
-theme="hugo-theme-stack"
